@@ -1,0 +1,9 @@
+# depslib dependency file v1.0
+1723206784 source:c:\users\dell\desktop\c++\week3.1\main.c
+	<stdio.h>
+	<stdlib.h>
+
+1723206784 source:c:\users\dell\desktop\c\week3.1\main.c
+	<stdio.h>
+	<stdlib.h>
+
